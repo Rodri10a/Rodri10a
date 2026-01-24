@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Header](./HeaderGitHub.png)
 <h1 align="center">Hi 👋, I'm Rodrigo José Argüello Pereira</h1> 
+<h3 align= "center"> Resilient Developer from Paraguay </h3> 
 
