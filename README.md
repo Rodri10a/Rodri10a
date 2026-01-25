@@ -21,23 +21,21 @@ Here are some ideas to get you started:
 I am a Junior Software Developer based in Paraguay, dedicated to building clean, efficient, and functional applications. My goal is to grow within the tech industry by tackling new challenges and continuously improving my coding standards.
 
 🧠 About Me
-💻 Passionate about software development and building dynamic, interactive systems.
+- 💻 Passionate about software development and building dynamic, interactive systems.
 
-🔭 Current Bootcamp: I'm currently working on Penguin Academy CodePro Bootcamp.
+- 🔭 Current Bootcamp: I'm currently working on Penguin Academy CodePro Bootcamp.
 
-🌱 Learning: Constantly improving my skills in modern technologies to deliver high-quality code.
+- 🌱 Learning: Constantly improving my skills in modern technologies to deliver high-quality code.
 
-🚀 Eager to take on new professional challenges and grow as a developer.
+- 🚀 Eager to take on new professional challenges and grow as a developer.
 
-🎯 Goal: To become a professional developer and contribute to innovative projects.
+- 🎯 Goal: To become a professional developer and contribute to innovative projects.
 
 🛠 Tech Stack
-🌍 Languages
-Spanish: Native.
-
-English: Upper-Intermediate (B2 Level).
-
-📚 Currently studying at The Anglo, Asunción.
+- 🌍 Languages
+- 🏠 Spanish: Native.
+- 🗣️ English: Upper-Intermediate (B2 Level).
+- 📚 Currently studying at The Anglo, Asunción.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
