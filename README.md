@@ -76,7 +76,7 @@ public class RodrigoController {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodri10a&theme=tokyonight" width="90%"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Rodri10a&theme=tokyonight&border_radius=10" width="55%"/>
-</p>>
+</p>
 
 ---
 
