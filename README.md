@@ -72,9 +72,9 @@ public class RodrigoController {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodri10a&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="Rodrigo's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodri10a&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&count_private=true" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri10a&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri10a&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" width="40%"/>
 </p>
 
 <p align="center">
