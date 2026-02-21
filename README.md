@@ -71,15 +71,13 @@ public class RodrigoController {
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rodri10a&theme=tokyonight&border_radius=10" width="55%"/>
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodri10a&theme=tokyonight" width="90%"/>
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodri10a&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="55%"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodri10a&theme=tokyonight" width="90%"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Rodri10a&theme=tokyonight&border_radius=10" width="55%"/>
+</p>>
 
 ---
 
