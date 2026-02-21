@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./HeaderGitHub.png" alt="Header" width="100%"/>
+  <img src="./HeaderBackend.png" alt="Header" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rodrigo José Argüello Pereira</h1>
