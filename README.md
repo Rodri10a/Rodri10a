@@ -1,46 +1,90 @@
-
-
-<!--
-**Rodri10a/Rodri10a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Header](./HeaderGitHub.png)
-<h1 align="center">Hi 👋, I'm Rodrigo José Argüello Pereira</h1> 
-<h3 align= "center"> Resilient Developer from Paraguay </h3> 
 
-I am a Junior Software Developer based in Paraguay, dedicated to building clean, efficient, and functional applications. My goal is to grow within the tech industry by tackling new challenges and continuously improving my coding standards.
+<h1 align="center">Hi 👋, I'm Rodrigo José Argüello Pereira</h1>
+<h3 align="center">Junior Backend Developer from Paraguay 🇵🇾</h3>
 
-🧠 About Me
-- 💻 Passionate about software development and building dynamic, interactive systems.
-
-- 🔭 Current Bootcamp: I'm currently working on Penguin Academy CodePro Bootcamp.
-
-- 🌱 Learning: Constantly improving my skills in modern technologies to deliver high-quality code.
-
-- 🚀 Eager to take on new professional challenges and grow as a developer.
-
-- 🎯 Goal: To become a professional developer and contribute to innovative projects.
-
-🛠 Tech Stack
-- 🌍 Languages
-- 🏠 Spanish: Native.
-- 🗣️ English: Upper-Intermediate (B2 Level).
-- 📚 Currently studying at The Anglo, Asunción.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/gaston-duarte-a15b8a1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodri-arguello-716720364?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq9%2Bw%2FJDzTse14YhTBIeQnQ%3D%3D" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Junior+Backend+Developer;Python+%7C+Java+%7C+Spring+Boot+Enthusiast;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p> 
+---
+
+### 🧠 About Me
+
+- 💻 Passionate about backend development, databases, and building reliable server-side systems.
+- 🔭 Currently enrolled in **Penguin Academy CodePro Bootcamp**.
+- 🌱 Deepening my knowledge in **Java & Spring Boot** for enterprise-grade backend development.
+- 🚀 Eager to take on new professional challenges and grow as a developer.
+- 🎯 Goal: To become a professional backend developer and contribute to innovative projects.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Technologies**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+### 🚀 Currently Exploring
+```java
+@RestController
+public class RodrigoController {
+
+    @GetMapping("/about-me")
+    public String aboutMe() {
+        return "Learning Java + Spring Boot to build scalable backend systems 🚀";
+    }
+}
+```
+
+---
+
+### 🌍 Languages
+
+- 🏠 Spanish: Native
+- 🗣️ English: Upper-Intermediate (B2) — Currently studying at **The Anglo, Asunción**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodri10a&show_icons=true&theme=tokyonight&border_radius=10" alt="Rodrigo's GitHub stats" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri10a&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodri10a&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="55%"/>
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rodri-arguello-716720364" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Rodrigo Argüello" height="30" width="40" />
+  </a>
+</p> 
