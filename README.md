@@ -1,4 +1,4 @@
-![Header](./HeaderGitHub.png)
+![Header](./HeaderGitHub (2).png)
 
 <h1 align="center">Hi 👋, I'm Rodrigo José Argüello Pereira</h1>
 <h3 align="center">Junior Backend Developer from Paraguay 🇵🇾</h3>
@@ -70,9 +70,9 @@ public class RodrigoController {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodri10a&show_icons=true&theme=tokyonight&border_radius=10" alt="Rodrigo's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodri10a&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="Rodrigo's GitHub stats" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri10a&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodri10a&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="Top Languages" width="40%"/>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ public class RodrigoController {
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rodri-arguello-716720364" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigoarguello111" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Rodrigo Argüello" height="30" width="40" />
   </a>
 </p> 
