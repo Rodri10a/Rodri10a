@@ -69,7 +69,6 @@ public class RodrigoController {
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
