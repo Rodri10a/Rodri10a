@@ -1,4 +1,6 @@
-![Header](./HeaderBackend.png)
+<p align="center">
+  <img src="./HeaderGitHub.png" alt="Header" width="100%"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Rodrigo José Argüello Pereira</h1>
 <h3 align="center">Junior Backend Developer from Paraguay 🇵🇾</h3>
